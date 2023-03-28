@@ -10,11 +10,11 @@ import tweepy
 import datetime
 
 # キーの指定（事前にTwitterAPIで利用申請したアカウントのキー）
-BEARER_TOKEN        = "AAAAAAAAAAAAAAAAAAAAADbudgEAAAAAYLp%2BC3HPKgw4ZvkzCBVypqscXTA%3DdJJEDRJ2APdBJNxt60fgSd6OlqLjoedBdw42UX7jozsb3QoUmR"
-API_KEY             = "Y89QKRcYAuRZkpZQ40elUSVAG"
-API_SECRET          = "vpcVg70stkpY3ckLt71D2TSkgKPZTrGNa2Kf8jjmd1Mf3LYC0K"
-ACCESS_TOKEN        = "1012156962618814464-zfSanWLQESslj47Byx8ghRdiEHA7Ka"
-ACCESS_TOKEN_SECRET = "Rkzqx1Zo5u4mfi1ZAIJkAbmpaai6q3wEAHAxmum8GSE6k"
+BEARER_TOKEN        = ""
+API_KEY             = ""
+API_SECRET          = ""
+ACCESS_TOKEN        = ""
+ACCESS_TOKEN_SECRET = ""
 
 # ブロック済みリスト
 blocked_list = []
